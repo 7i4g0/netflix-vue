@@ -1,0 +1,84 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "titulo": "Mais Vistos",
+            "filmes": [
+                {
+                    "id": 1,
+                    "titulo": "Assassins Creed",
+                    "imagem": "https://img1.ibxk.com.br/2015/11/12/12134915138723.jpg?w=700"
+                }, {
+                  "id": 2,
+                  "titulo": "Yes man!",
+                  "imagem": "https://img.ibxk.com.br/56176/39436.jpg?w=328&h=218&mode=crop&scale=both&quality=80"
+                }, {
+                  "id": 3,
+                  "titulo": "Norbit",
+                  "imagem": "https://www.swindonadvertiser.co.uk/resources/images/190888.jpg?display=1&htype=100000&type=responsive-gallery"
+                }, {
+                  "id": 4,
+                  "titulo": "Edge of Tomorrow",
+                  "imagem": "https://exame.com/wp-content/uploads/2016/09/size_960_16_9_no-limite-do-amanha.jpg"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "titulo": "Comédia",
+            "filmes": [
+                {
+                    "id": 1,
+                    "titulo": "The Office",
+                    "imagem": "https://mixdeseries.com.br/wp-content/uploads/2019/05/The-Office-NBC-1024x576.jpg"
+                },
+                {
+                    "id": 2,
+                    "titulo": "Yes man!",
+                    "imagem": "https://img.ibxk.com.br/56176/39436.jpg?w=328&h=218&mode=crop&scale=both&quality=80"
+                },
+                {
+                    "id": 3,
+                    "titulo": "Norbit",
+                    "imagem": "https://www.swindonadvertiser.co.uk/resources/images/190888.jpg?display=1&htype=100000&type=responsive-gallery"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "titulo": "Ação e Aventura",
+            "filmes": [
+                {
+                    "id": 1,
+                    "titulo": "Assassins Creed",
+                    "imagem": "https://img1.ibxk.com.br/2015/11/12/12134915138723.jpg?w=700"
+                },
+                {
+                    "id": 2,
+                    "titulo": "Edge of Tomorrow",
+                    "imagem": "https://exame.com/wp-content/uploads/2016/09/size_960_16_9_no-limite-do-amanha.jpg"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "titulo": "Terror e Suspense",
+            "filmes": [
+                {
+                    "id": 1,
+                    "titulo": "Darkness Falls",
+                    "imagem": "https://img4.hulu.com/user/v3/artwork/365c9793-2ace-467d-b7cb-78bfa4cf9349?base_image_bucket_name=image_manager&base_image=9ac4db52-3ff7-47cb-8fca-131becd55b81&size=1200x630&format=jpeg&operations=%5B%7B%22gradient_vector%22%3A%22(0%2C0%2C0%2C0.5)%7C(0%2C0%2C0%2C0)%7C(0%2C600)%7C(0%2C240)%22%7D%2C%7B%22overlay%22%3A%7B%22position%22%3A%22SouthEast%7C(30%2C30)%22%2C%22operations%22%3A%5B%7B%22image%22%3A%22image_manager%7C545715dd-71a6-4556-8c3a-a08cce547e48%22%7D%2C%7B%22resize%22%3A%22204x204%7Cmax%22%7D%2C%7B%22extent%22%3A%22204x204%22%7D%5D%7D%7D%2C%5D"
+                },
+                {
+                  "id": 2,
+                  "titulo": "It",
+                  "imagem": "data:image/jpeg;base64,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"
+                }, {
+                  "id": 3,
+                  "titulo": "Halloween",
+                  "imagem": "https://oimpacto.com.br/wp-content/uploads/2018/10/Halloween-2018-banner.jpg"
+                }
+            ]
+        }
+    ]
+}
