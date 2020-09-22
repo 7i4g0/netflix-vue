@@ -5,6 +5,16 @@ Estudo sobre Vue.js: Categorias ao estilo Netflix
 ```
 npm install
 ```
+## Install JSON Server
+Get a full fake REST API with zero coding in less than 30 seconds
+
+```
+npm install -g json-server
+```
+And start your server
+```
+json-server --watch db.json
+```
 
 ### Compiles and hot-reloads for development
 ```
