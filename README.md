@@ -1,4 +1,5 @@
-# netflix_vue_router
+# netflix-vue
+Estudo sobre Vue.js: Categorias ao estilo Netflix
 
 ## Project setup
 ```
@@ -19,6 +20,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
